@@ -1,0 +1,13 @@
+{
+  "name": "Napkin Proofs",
+  "short_name": "Napkin Proofs",
+  "description": "Surprising math, drawn by hand. 45 to 60 second animated proofs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131A24",
+  "theme_color": "#131A24",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
